@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
 
-// 17/02/26 - 04
+// 20/02/26 - 02
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
